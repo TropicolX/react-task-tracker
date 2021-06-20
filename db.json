@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 3,
+      "text": "Food Shopping",
+      "day": "Feb 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Reading",
+      "day": "Sunday",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Coding",
+      "day": "Tuesday",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "Travel to Bahamas",
+      "day": "This weekend",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
